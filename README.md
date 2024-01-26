@@ -1,4 +1,4 @@
-# Game Detona Ralph 🎮
+# Game - Jogo de Memória 🎮
 
 ## Sobre o jogo:
 
